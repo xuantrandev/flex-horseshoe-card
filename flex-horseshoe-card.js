@@ -23,7 +23,6 @@ import {
   html,
   css,
   svg
-  // } from "https://unpkg.com/lit-element@2.0.1/lit-element.js?module";
 } from "https://esm.run/lit-element@2.0.1/lit-element.js?module";
 
   console.info(
